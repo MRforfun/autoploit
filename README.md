@@ -16,11 +16,11 @@ subscribe me on youtube
 https://www.youtube.com/channel/UCcpF3CBPwhat06_3Tg4o4tg
 
 # running
-if you running on termux
+- termux
 ```
 $ python3 autoploit.py
 ```
-if you running on linux
+- linux
 ```
 $ sudo python3 autploit.py
 ```
