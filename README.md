@@ -22,7 +22,7 @@ $ python3 autoploit.py
 ```
 - linux
 ```
-$ sudo python3 autploit.py
+$ sudo python3 autoploit.py
 ```
 # screenshot
 <img src="img/Screenshot.png"/>
